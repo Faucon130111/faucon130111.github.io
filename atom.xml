@@ -6,7 +6,7 @@
   <link href="http://faucon130111.github.io/atom.xml" rel="self"/>
   
   <link href="http://faucon130111.github.io/"/>
-  <updated>2020-11-27T02:15:29.494Z</updated>
+  <updated>2020-11-27T02:29:30.800Z</updated>
   <id>http://faucon130111.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://faucon130111.github.io/2020/11/25/playground-with-3rd-party-framework/"/>
     <id>http://faucon130111.github.io/2020/11/25/playground-with-3rd-party-framework/</id>
     <published>2020-11-25T05:35:38.000Z</published>
-    <updated>2020-11-27T02:15:29.494Z</updated>
+    <updated>2020-11-27T02:29:30.800Z</updated>
     
     <content type="html"><![CDATA[<h3 id="1-새로운-App-프로젝트를-생성한다"><a href="#1-새로운-App-프로젝트를-생성한다" class="headerlink" title="1. 새로운 App 프로젝트를 생성한다."></a>1. 새로운 App 프로젝트를 생성한다.</h3><p><img src="/2020/11/25/playground-with-3rd-party-framework/screenshot_1.png"></p><h3 id="2-Podfile을-생성해-사용하고자-하는-Framework를-추가한다"><a href="#2-Podfile을-생성해-사용하고자-하는-Framework를-추가한다" class="headerlink" title="2. Podfile을 생성해 사용하고자 하는 Framework를 추가한다."></a>2. Podfile을 생성해 사용하고자 하는 Framework를 추가한다.</h3><h3 id="3-XCode-좌측-하단의-버튼을-눌러-Playground-파일을-추가한다"><a href="#3-XCode-좌측-하단의-버튼을-눌러-Playground-파일을-추가한다" class="headerlink" title="3. XCode 좌측 하단의 + 버튼을 눌러 Playground 파일을 추가한다."></a>3. XCode 좌측 하단의 + 버튼을 눌러 Playground 파일을 추가한다.</h3><p><img src="/2020/11/25/playground-with-3rd-party-framework/screenshot_2.png"><br><img src="/2020/11/25/playground-with-3rd-party-framework/screenshot_3.png"></p><h3 id="4-😎끝"><a href="#4-😎끝" class="headerlink" title="4. 😎끝!!!"></a>4. 😎끝!!!</h3><p><img src="/2020/11/25/playground-with-3rd-party-framework/screenshot_4.png"></p>]]></content>
     
